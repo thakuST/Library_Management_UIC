@@ -1,5 +1,5 @@
 # WE HAVE USED DATABASE.SQL as our database for Postgres
-# CS 480, Project - Group 11
+# CS 480, Project 
 
 import psycopg2
 import os
