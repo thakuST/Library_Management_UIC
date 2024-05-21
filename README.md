@@ -15,4 +15,4 @@ the first two deliverables. This application can be either a web or desktop appl
 
 The front-end used was the command-line prompt, the back-end used was python and we used PostgreSQL for formulating SQL commands. 
 
-Attached our the files used for final submission in this course.
+Attached are the files used for final submission in this course.
