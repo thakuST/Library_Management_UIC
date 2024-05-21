@@ -1,6 +1,5 @@
 # WE HAVE USED DATABASE.SQL as our database for Postgres
-# CS 480, Project - Group 11, Spring 2024
-# Authors: Sneha Thakur, Justin Thalackan, Shahriar Namvar
+# CS 480, Project - Group 11
 
 import psycopg2
 import os
